@@ -9,6 +9,7 @@
   "dependencies": {
     "lime-transport-websocket": "^2.0.0",
     "messaginghub-client": "^3.0.0",
+    "node-geocoder": "^3.16.0",
     "request-promise": "^3.0.0"
   }
 }
