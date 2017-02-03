@@ -93,6 +93,7 @@ client.addMessageReceiver(() => true, (m) => {
             lastAnswerForUser[m.from] = res;
             registerAction({ category: 'Bot', action: 'answered' });
             client.sendMessage(select);
+            
         })
         .catch((err) => console.error(err));
 });

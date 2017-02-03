@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # random-words
 > A bot that maybe will answer you with a random english word
 
@@ -11,3 +12,7 @@ npm start
 ```
 
 After this example bot is setup and running, you can try it by sending any message to `randomwords@msging.net` via any channel currently supported by MessagingHub (SMS, Omni, Facebook, Telegram or Skype).
+=======
+# botathon-cpbr10
+Bot messenger
+>>>>>>> 01d5d47920d5cbff343ce9d40ddf07cb26154fe4
